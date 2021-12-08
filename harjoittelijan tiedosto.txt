@@ -1,7 +1,8 @@
 täältäkö saa niitä töirä?
+Toivottavasti saan töirä
+
 
 ei saa
-Täältä täältä* 
 
 
 
@@ -9,4 +10,3 @@ Täältä täältä*
 
 
 
-*ehkä
